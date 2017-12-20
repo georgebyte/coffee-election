@@ -1,6 +1,8 @@
 {
   "name": "coffee-election",
   "version": "0.0.0",
+  "description": "An example app demonstrating Angular state management with observable store services.",
+  "author": "Jure Bajt",
   "license": "MIT",
   "scripts": {
     "ng": "ng",
